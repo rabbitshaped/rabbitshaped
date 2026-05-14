@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Ira 👋
 
-<!--
-**rabbitshaped/rabbitshaped** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer building playful, atmospheric web applications.
 
-Here are some ideas to get you started:
+## Current interests
+- UI/UX with strong visual identity
+- APIs & data-driven apps
+- Creative coding
+- Experimental web projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech
+JavaScript • Node.js • Express • PostgreSQL • EJS • React
+
+## Selected Projects
+📚 bookshelf — personal library app with API-powered cover fetching  
+🐸 croak-and-chatter — tiny amphibian blogging platform  
+🐇 bunder — faux dating app for rabbits  
+🌧 elsewhere — weather discomfort visualization project
