@@ -10,9 +10,3 @@ Full-stack developer building playful, atmospheric web applications.
 
 ## Tech
 JavaScript • Node.js • Express • PostgreSQL • EJS • React
-
-## Selected Projects
-📚 bookshelf — personal library app with API-powered cover fetching  
-🐸 croak-and-chatter — tiny amphibian blogging platform  
-🐇 bunder — faux dating app for rabbits  
-🌧 elsewhere — weather discomfort visualization project
