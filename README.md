@@ -1,6 +1,6 @@
 # Hi, I'm Ira 👋
 
-Full-stack developer building playful, atmospheric web applications.
+Frontend dev building playful, atmospheric web applications.
 
 ## Current interests
 - UI/UX with strong visual identity
